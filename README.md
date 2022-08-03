@@ -7,3 +7,8 @@ Well, we don't know any either, but one can do projective geometry in desmos cal
 The URL of the link will change on new releases. Do not bookmark or save it.
 
 ![screenshot](perspective.png)
+
+---
+layout: forward
+target: https://www.desmos.com/calculator/gh7mq42f3h
+---
