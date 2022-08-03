@@ -6,4 +6,4 @@ Well, we don't know any either, but one can do projective geometry in desmos cal
 
 The URL of the link will change on new releases. Do not bookmark or save it.
 
-![screenshot](https://github.com/asebian/Perspective/perspective.png)
+![screenshot](perspective.png)
