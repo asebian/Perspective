@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: https://www.desmos.com/calculator/0qzfh5df9t
+target: https://www.desmos.com/calculator/dphtkcnfrb
 targetname: desmos calculator
 targettitle: Taking you to desmos calculator
 time: 0
