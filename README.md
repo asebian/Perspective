@@ -4,7 +4,7 @@ This project originated as a proof of concept for projective geometry in desmos 
 
 ## Features
 * adjustable orientation: focal lenght, shift, height, anzimuth, altitude
-* perspective construction guides: center of view, horizon, station point, ground line, measuring points, horizontal and vertical measuring lines, cone of vision, ground level grid
+* perspective construction guides: center of vision, horizon, station point, ground line, measuring points, horizontal and vertical measuring lines, cone of vision, ground level grid
 * drawing functions: points, polygones, vanishing points, vanishing lines
 
 Please **rather bookmark this site or the redirecting link below than the desmos URL** since the latter will change on updates!
